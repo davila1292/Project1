@@ -7,6 +7,10 @@ public class DemoTest1 {
 		
 		System.out.println("Java");
 		
+		System.out.println("Some more stuff in here...");
+		
+		System.out.println("This is how we do it with GitHub");
+		
 	}
 
 }
